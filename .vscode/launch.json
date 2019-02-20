@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SpringBootThymeleafApplication",
+            "request": "launch",
+            "mainClass": "com.bolsadeideas.springboot.app.SpringBootThymeleafApplication",
+            "projectName": "spring-boot-thymeleaf"
+        }
+    ]
+}
